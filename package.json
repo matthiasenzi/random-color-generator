@@ -1,0 +1,12 @@
+{
+  "name": "random-color-generator",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/matthiasenzi/random-color-generator.git",
+  "author": "Matthias Enzi <matthias@upleveled.io>",
+  "license": "MIT",
+  "dependencies": {
+    "kuler": "^2.0.0",
+    "randomcolor": "^0.6.2"
+  }
+}
